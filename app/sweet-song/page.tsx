@@ -10,9 +10,9 @@ const images: string[] = [
 ];
 
 const songs: string[] = [
-  "/audio/babe anjel.mp3",
-  "/audio/tong hua.mp3",
-  "/audio/lao su ai ta mi.mp3",
+  "/audio/babe.mp3",
+  "/audio/tonghau.mp3",
+  "/audio/laosuaitami.mp3",
 ];
 
 const Home: React.FC = () => {
