@@ -43,10 +43,10 @@ export default function LoveLetter() {
           A Message for You ❤️
         </h1>
         <p className="text-gray-700 text-lg leading-relaxed font-medium">
-          I just wanted to take a moment to appreciate everything you do. You're always there, always supportive, and I just want to say thank you.
+          I just wanted to take a moment to appreciate everything you do. You&apos;re always there, always supportive, and I just want to say thank you.
         </p>
         <p className="text-gray-700 text-lg leading-relaxed mt-3">
-          Life gets busy, but I hope you know how much you mean to me. No matter what happens, I'm grateful to have you around.
+          Life gets busy, but I hope you know how much you mean to me. No matter what happens, I&apos;m grateful to have you around.
         </p>
         <p className="text-gray-900 font-semibold text-lg mt-4 drop-shadow-sm">
           Wishing you happiness, today and always. ❤️
